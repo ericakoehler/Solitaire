@@ -1,0 +1,2 @@
+# Solitaire
+Training - Game
